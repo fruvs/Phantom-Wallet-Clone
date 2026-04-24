@@ -22,7 +22,8 @@ The app includes:
 - This project is my atempt to learn swift and show my skills with the language and show off my compleated product.
 - This project is no where near done and its still a work in progress to get all UI elements to look closer to the real app and to update current UI elemets to the new UI shown in the real app
 
-Im making these apps to improve my skills with iOS development and show my abilities off to potential employers 
+Im making these apps to improve my skills with iOS development and show my abilities off to potential employers.
+
 If you have any questions please feel free to reach out to me on [telegram](https://t.me/Fruvss)
 
 <p align="center">
