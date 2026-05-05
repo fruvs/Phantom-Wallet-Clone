@@ -13,7 +13,7 @@ The app includes:
 - Predictions and perps exploration pages
 - Account management, settings, notifications, and internal tooling
 - Uses official Phantom API so all results are similar to the real app (may break with updates)
-- Supported on IOS 17.6 and up
+- Supported on IOS 18 and up
 
 ## Status
 
