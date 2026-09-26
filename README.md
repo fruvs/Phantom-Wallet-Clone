@@ -1,7 +1,7 @@
 ## Overview
 The app includes:
 
-- A custom animated elements (using Rive) 
+- A custom animated elements
 - Portfolio and balance tracking across multiple assets
 - Token detail pages with price/history context
 - Send, buy, sell, and swap pages
@@ -9,7 +9,6 @@ The app includes:
 - Cash and card style money movement surfaces
 - Predictions and perps exploration pages
 - Account management, settings, notifications, and internal tooling
-- Uses official Phantom API so all results are similar to the real app (may break with updates)
 - Supported on IOS 18 and up
 
 ## Status
