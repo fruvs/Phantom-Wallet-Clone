@@ -20,13 +20,11 @@ The app includes:
 If you have any questions please feel free to reach out to me on [telegram](https://t.me/Fruvss)
 
 <p align="center">
-  <img src="./img/IMG_8279.png" width="220" />
-  <img src="./img/IMG_8281.png" width="220" />
-  <img src="./img/IMG_8280.png" width="220" />
-  <img src="./img/IMG_8282.png" width="220" />
-  <img src="./img/IMG_8283.png" width="220" />
-  <img src="./img/IMG_8284.png" width="220" />
-  <img src="./img/IMG_8285.png" width="220" />
-  <img src="./img/IMG_8287.png" width="220" />
-  <img src="./img/IMG_8286.png" width="220" />
+  <img src="./img/home.png" alt="Home screen showing portfolio, tokens, and perps" width="220" />
+  <img src="./img/trade.png" alt="Trade screen showing hot markets and trending tokens" width="220" />
+  <img src="./img/predict.png" alt="Predict screen showing markets and upcoming events" width="220" />
+  <img src="./img/explore.png" alt="Explore screen showing trending tokens and news" width="220" />
+  <img src="./img/token-detail.png" alt="Paid token detail with live price chart" width="220" />
+  <img src="./img/account-menu.png" alt="Account menu with profile, watchlist, and settings" width="220" />
+  <img src="./img/quick-actions.png" alt="Quick actions for sending, receiving, adding cash, and trading" width="220" />
 </p>
